@@ -4,3 +4,5 @@
  Repositório criado durante o Curso em Vídeo.
 
 Essa linha eu adicionei diretamente no site do Github. Que impressionante!
+
+Ainda continuo aprendendo.
